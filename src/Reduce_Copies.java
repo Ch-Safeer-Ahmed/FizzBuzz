@@ -1,4 +1,4 @@
-public class Reduce {
+public class Reduce_Copies {
     public static void main(String[] args) {
         int n = 100;
         int steps = 0;

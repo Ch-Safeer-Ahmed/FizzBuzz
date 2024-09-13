@@ -1,4 +1,4 @@
-public class Multiples {
+public class Multiples_copies {
     public static void main(String[] args) {
         int count = 0;
         int i = 1;
